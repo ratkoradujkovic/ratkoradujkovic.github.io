@@ -348,6 +348,9 @@ textarea:focus {
     .fab {
         font-size: 30px !important;
     }
+    .about-me-text h2, h4, h6 {
+        text-align: center !important;
+    }
 }
 
 .btn {
